@@ -3,13 +3,13 @@
 get_header('secondary');
 ?>
 <div id="mookintro">
-	<div>
+	<div  id="m1">
 		Mook's Market offers a large selection of online training products, services, live events and exclusive masterminds to help
 		you along your business journey. Entrepreneur Owner/Operator Michael 'Mookie' Galavotti also provides free daily inspiration
 		and motivation values of life and business tips through blogs and social media with a driven passion to help others succeed
 		and prosper.
 	</div>
-	<div>
+	<div id="m2">
 		<img src="<?php echo get_bloginfo('template_url') ?>/images/mooks.png" alt="">
 	</div>
 </div>

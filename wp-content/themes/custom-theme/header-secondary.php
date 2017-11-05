@@ -21,5 +21,5 @@
 	
 		
         <h1 class="animated fadeInUpBig text-center" id="main-intro">Mook's Market</h1>
-        <h3 class="text-center animated fadeInUpBig" id="learn-more"><a href="#">More</a></h3>
+      
         <img src="<?php echo get_bloginfo('template_url') ?>/images/city-foreground.png"/ id="cityscape-image">

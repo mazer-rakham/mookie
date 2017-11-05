@@ -14,9 +14,7 @@
 		
 				<?php esc_html_e('All rights reserved', 'shop-and-commerce'); ?>  &copy; <?php bloginfo('name'); ?>
 				
-				<a href="http://wordpress.org/" title="<?php esc_attr_e( 'WordPress', 'shop-and-commerce' ); ?>"><?php printf( esc_html_e( 'Powered by %s', 'shop-and-commerce' ), 'WordPress' ); ?></a>
-							
-				<a title="<?php esc_html_e('Wordpress theme', 'shop-and-commerce'); ?>" href="<?php echo esc_url(__('https://seosthemes.com/', 'shop-and-commerce')); ?>" target="_blank"><?php esc_html_e('Theme by SEOS', 'shop-and-commerce'); ?></a>	
+				<a href="http://wordpress.org/" title="<?php esc_attr_e( 'WordPress', 'shop-and-commerce' ); ?>">
 				
 		</div><!-- .site-info -->
 	
